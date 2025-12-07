@@ -99,5 +99,4 @@ Dataset akan terus bertambah seiring kamu mengajari sistem
 
 ## ## 📜 Lisensi
 
-Proyek ini dilisensikan di bawah lisensi MIT.  
-Lihat file `LICENSE` untuk detail lebih lanjut.
+Projek ini bebas digunakan dan dimodifikasi.
