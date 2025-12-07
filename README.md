@@ -97,6 +97,6 @@ Dataset akan terus bertambah seiring kamu mengajari sistem
 
 ---
 
-## ## 📜 Lisensi
+## 📜 Lisensi
 
 Projek ini bebas digunakan dan dimodifikasi.
